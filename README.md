@@ -282,17 +282,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos importantes d
 <img width="989" height="1195" alt="E-COMMERCE Refinado" src="https://github.com/user-attachments/assets/7566b8d3-3ed5-448c-bc03-95acba4230c0" />
 
 
-```
-/images/diagrama-ecommerce.png
-```
-
-ou
-
-```md
-![Diagrama do Projeto](images/diagrama-ecommerce.png)
-```
-
----
 
 # 👨‍💻 Autor
 
